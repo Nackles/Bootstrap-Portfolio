@@ -1,8 +1,11 @@
-#Link to Github
+# Link to Github
 https://github.com/Nackles/Bootstrap-Portfolio
 
+# Link to Portfolio
+https://nackles.github.io/Bootstrap-Portfolio/
+
 # Bootstrap-Portfolio
-Remaking basicportfolio from scratch into a bootstrap-driven portfolio. This is the initial push.
+Minor link update. Major overhaul incoming.
 
 ## Goals
 To create a minimalist portfolio site. 
